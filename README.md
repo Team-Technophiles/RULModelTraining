@@ -23,7 +23,7 @@ Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, Yug Thakkar and Shub
 
 ### **Our Approach / Solution :**
 
->> <img src="https://github.com/rushabh1605/Portend/blob/main/flowchart/flowchart_3.png" >
+>> <img src="images/flowchart_3.png" >
 
     ML model:
               1. Dataset link : https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#battery
