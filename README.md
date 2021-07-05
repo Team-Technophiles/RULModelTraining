@@ -44,20 +44,7 @@ Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, Yug Thakkar and Shub
 - mat2json.py                    - Converting .mat to JSON 
 - util.py                        - Getting different types of data and returning dataframe that determines and helps us to train our model for RUL
 - RUL_Battery_Prediction.ipynb   - Loading dataset and training various models and selecting best one for deployment
-
-> **Tech Stack Used :-**
-
-    TensorFlow Lite
-
-    Android Studio (java)
-
-    Google maps(URL based) API
-
-
-> **Video:** [Link to Video](https://youtu.be/bV5bhKFsdYY)
-
-> **APK file:** [Link to APK File](https://drive.google.com/file/d/10DnwVU_na934VCRcrFEpBOYV6pfqOaVp/view?usp=sharing)
-
+- 
 
 > **Profiles of team member:** 
 
